@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resque.Bootstrap.StructureMap", "Resque.JobCreator.StructureMap\Resque.Bootstrap.StructureMap.csproj", "{D61455F9-8A33-4D8A-AEC1-18F623263FB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resque.Bootstrap.StructureMap", "Resque.Bootstrap.StructureMap\Resque.Bootstrap.StructureMap.csproj", "{D61455F9-8A33-4D8A-AEC1-18F623263FB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{267C4FFB-0291-410A-90A3-A3D2E1BC8A19}"
 	ProjectSection(SolutionItems) = preProject
