@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<package xmlns='http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd'>
+	<metadata>
+		<id>Resque.Bootstrap.StructureMap</id>
+		<version>0.1.0</version>
+		<title>Resque StructureMap Bootstrapper</title>
+		<authors>Scott Brown</authors>
+		<description>StructureMap bootstrapper for Resque</description>
+		<language>en-US</language>
+		<projectUrl>https://github.com/scobrown/Resque.RedisClient.Booksleeve</projectUrl>
+		<dependencies>
+			<dependency id='structuremap' version='2.6.3'/>
+			<dependency id='Resque' version='0.1.0'/>
+		</dependencies>
+		<references>
+			<reference file="Resque.Bootstrap.StructureMap.dll" />
+		</references>
+	</metadata>
+  <files>
+    <file src="source\Resque.Bootstrap.StructureMap\bin\Debug\Resque.Bootstrap.StructureMap.dll" target="lib\4.0" /> 
+  </files>
+</package>
